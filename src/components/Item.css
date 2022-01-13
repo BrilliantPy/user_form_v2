@@ -1,0 +1,19 @@
+td .edit{
+	background-color: #fff;
+	border: 1px solid #aaa;
+	border-radius: 5px;
+}
+td .view{
+	background-color: transparent;
+	border: none;
+}
+.btn-group{
+	display: flex;
+	flex-flow: row wrap;
+}
+.btn-group > button{
+	padding: 10px;
+}
+td input{
+	background-color: transparent;
+}

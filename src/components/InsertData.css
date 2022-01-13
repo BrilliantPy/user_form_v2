@@ -1,0 +1,38 @@
+.form-control{
+	display: inline-block;
+	text-align: center;
+	overflow: hidden;
+}
+input{
+	text-align: center;
+	border: 1px solid #aaa;
+	border-radius: 5px;
+}
+input:focus{
+	outline: none;
+}
+.form-control-add{
+	display: inline-block;
+	text-align: center;
+	padding: 0.5rem 0.5rem;
+}
+form .form-control-add:first-child{
+	width: 25%;
+}
+form .form-control-add:nth-child(2){
+	width: 25%;
+}
+form .form-control-add:nth-child(3){
+	width: 25%;
+}
+form .form-control-add:nth-child(4){
+	width: 25%;
+}
+.btn-add{
+	width: 60%;
+	padding: 10px;
+	text-align: center;
+}
+.add-container{
+	width: 25%;
+}

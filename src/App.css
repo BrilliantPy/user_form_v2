@@ -1,0 +1,12 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+*{
+	box-sizing: border-box;
+}
+.container{
+	text-align: center;
+	min-width: 900px;
+}
+h1 span{
+	margin-right: 10px;
+}
